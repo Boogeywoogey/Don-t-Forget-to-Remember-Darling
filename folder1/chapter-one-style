@@ -1,1 +1,35 @@
+body 
+    {background-color:#071E22;
+    text-align:center;
+    } 
+a, .text
+    {text-decoration:none;
+    font-size:40px;
+    color:#F4C095;
+    font-weight:bolder;} 
+        
+.link 
+    {text-decoration:none;
+    font-size:40px;
+    color:#EE2E31;
+    font-style:italic;}
+    
 
+    
+.link-calm 
+    {text-decoration:none;
+    font-size:40px;
+    color:#1D7874;
+    font-style:italic;} 
+
+.text-calm 
+    {text-decoration:none;
+    font-size:40px;
+    color:#c4ede4;
+    font-weight:bold;} 
+    
+#chapter-one, #chapter-two
+    {text-decoration:none;
+    font-size:60px;
+    color:#c4ede4;
+    font-weight:bold;}
